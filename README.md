@@ -14,4 +14,4 @@
 add action=accept comment="Mikhmon QR Code Scanner" disabled=no dst-host=bugsnet.github.io
 ```
 
-### Powered by webqr.com / https://laksa19.github.io/
+### Powered by webqr.com / laksa19.github.io
